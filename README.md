@@ -11,6 +11,6 @@ Utility scripts to analyze raw data from Pallet AI investigations
 
 ## Usage Examples:
 ```
-   ./top_board.sh 5      Extract and compare measurement data for top board 5 from all investigations
-   ./bottom_board.sh 3   Extract and compare measurement data for bottom board 3 from all investigations
+   ./top_board.sh 5      Extract and compare measurements for top board 5 from all investigations
+   ./bottom_board.sh 3   Extract and compare measurements for bottom board 3 from all investigations
 ```
